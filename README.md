@@ -1,5 +1,3 @@
-I work on geometry estimation and diffusion models.
-
 ## 🔬 Research
 
 🏹 **[ARROW](https://github.com/ifradlin/arrow)** · Arbitrary Reconstruction and Tracking of 4D Observations in the Wild  
